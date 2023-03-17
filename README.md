@@ -1,6 +1,7 @@
 # Code Refactor Starter Code
 Module 1 Challenge from Berkeley's Coding Bootcamp Summer 2023
-**Github Pages Link**:
+
+**Github Pages Link**: https://kishparikh13.github.io/coding-bootcamp-module-1/
 
 ## Overview
 This exercise was to go over the basics of accessibility standards on the web and best practices when structuring html. To do this we refactored some starter code according the below acceptance criteria.
@@ -25,11 +26,14 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
 ```
 
 ## What I did
+I went line by line through the acceptance criteria, like a checklist, and made the appropriiate changes. Most of the changes involved changing tags and attributes of html elements.
 
-
+I also made one change not included in the acceptance criteria. I noticed one of the links in the navigation didn't work because the corresponding section (the link anchor) was missing an ID. I simply added the ID to the section to solve that problem.
 
 ## End Result
+There isn't much to show visually, so instead I created a `before.html` file to show the original html before my refactoring. This can be compared wiith `index.html` to see what changes I made. My final version is published to the url below.
+
+**Github Pages Link**: https://kishparikh13.github.io/coding-bootcamp-module-1/
