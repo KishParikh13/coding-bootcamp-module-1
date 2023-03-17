@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title
 See `before.html` for the starter code that was given.
 
 ## What I did
-I went line by line through the acceptance criteria, like a checklist, and made the appropriate changes. Most of the changes involved changing tags and attributes of html elements.
+I went line by line through the acceptance criteria, like a checklist, and made the appropriate changes. Half of the changes involved changing tags and attributes of html elements. The other half of the changes required updating the css file, renaming classes and changing a few selectors. Overall I removed a lot of duplative css classes and restructured one off class selectors into ids.
 
 I also made one change not included in the acceptance criteria. I noticed one of the links in the navigation didn't work because the corresponding section (the link anchor) was missing an ID. I simply added the ID to the section to solve that problem.
 
