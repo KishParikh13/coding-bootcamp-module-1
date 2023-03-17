@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Week 1 Challenge - Accessibility Refactor
 Module 1 Challenge from Berkeley's Coding Bootcamp Summer 2023
 
 **Github Pages Link**: https://kishparikh13.github.io/coding-bootcamp-module-1/
