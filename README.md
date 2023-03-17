@@ -1,10 +1,18 @@
 # Code Refactor Starter Code
-
 Module 1 Challenge from Berkeley's Coding Bootcamp Summer 2023
+**Github Pages Link**:
 
 ## Overview
+This exercise was to go over the basics of accessibility standards on the web and best practices when structuring html. To do this we refactored some starter code according the below acceptance criteria.
 
-## Acceptance Criteria
+**User Story**:
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+**Acceptance Criteria**:
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -21,5 +29,7 @@ THEN I find a concise, descriptive title
 ```
 
 ## What I did
+
+
 
 ## End Result
