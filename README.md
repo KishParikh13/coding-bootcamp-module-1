@@ -31,11 +31,13 @@ THEN I find a concise, descriptive title
 See `before.html` for the starter code that was given.
 
 ## What I did
-I went line by line through the acceptance criteria, like a checklist, and made the appropriate changes. Most of the changes involved changing tags and attributes of html elements.
+I went line by line through the acceptance criteria, like a checklist, and made the appropriate changes. Half of the changes involved changing tags and attributes of html elements. The other half of the changes required updating the css file, renaming classes and changing a few selectors. Overall I removed a lot of duplative css classes and restructured one off class selectors into ids.
 
 I also made one change not included in the acceptance criteria. I noticed one of the links in the navigation didn't work because the corresponding section (the link anchor) was missing an ID. I simply added the ID to the section to solve that problem.
 
 ## End Result
-There isn't much to show visually, so instead I created a `before.html` file to show the original html before my refactoring. This can be compared wiith `index.html` to see what changes I made. My final version is published to the url below.
+I created a `before.html` file to show the original html before my refactoring. This can be compared wiith `index.html` to see what changes I made. See the published url and image below.
 
 **Github Pages Link**: https://kishparikh13.github.io/coding-bootcamp-module-1/
+
+![Final webpage](site-screenshot.jpg)
