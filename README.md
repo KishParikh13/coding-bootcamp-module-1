@@ -28,8 +28,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+See `before.html` for the starter code that was given.
+
 ## What I did
-I went line by line through the acceptance criteria, like a checklist, and made the appropriiate changes. Most of the changes involved changing tags and attributes of html elements.
+I went line by line through the acceptance criteria, like a checklist, and made the appropriate changes. Most of the changes involved changing tags and attributes of html elements.
 
 I also made one change not included in the acceptance criteria. I noticed one of the links in the navigation didn't work because the corresponding section (the link anchor) was missing an ID. I simply added the ID to the section to solve that problem.
 
